@@ -1,4 +1,4 @@
-# GUI_DS
+# Data Visualization with Tkinter
 
 ## Crime in India
 This is some basic visualization of data on Crime in India.
