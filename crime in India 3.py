@@ -1,10 +1,11 @@
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as pt
+import matplotlib.pyplot as pt   
 import plotly.graph_objs as go
 import plotly.offline as ply
+import tkinter       # importing all my modules
 
-import tkinter
+
 window = tkinter.Tk()
 
 
