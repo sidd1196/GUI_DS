@@ -1,8 +1,12 @@
-import pandas as pd
+# Importing All the Modules
 
+import pandas as pd
 import plotly.graph_objs as go
 import plotly.offline as ply
 import matplotlib.pyplot as plt
+
+
+
 
 # Data
 data = pd.read_csv('01_District_wise_crimes_committed_IPC_2001_2012.csv')
