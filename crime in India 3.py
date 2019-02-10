@@ -91,7 +91,7 @@ btn.config(height=2, width=10, font = ('italic bold', 20, 'underline italic') )
 # packing the button
 btn.pack()   
     
-
+# To pack everything in tkinter
 window.mainloop()
 
 
